@@ -1,0 +1,19 @@
+{
+  "name": "json-files-merger",
+  "version": "1.0.0",
+  "description": "merge all json files to a single object",
+  "main": "index.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "keywords": [
+    "json",
+    "node",
+    "merge"
+  ],
+  "author": "Xun Zhou",
+  "license": "MIT",
+  "devDependencies": {
+    "json-files-merger": "1.0.0"
+  }
+}
