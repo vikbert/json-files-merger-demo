@@ -2,7 +2,11 @@
 
 ## How to Start
 
+clone the project, then
+
 ```
+git clone https://github.com/vikbert/json-files-merger-demo.git
+cd json-files-merger-demo
 npm install
 npm start
 ```
